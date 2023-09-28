@@ -1,7 +1,7 @@
 ## Enhancement Ratios from TROPOMI and FRP Data from VIIRS S-NPP Used in "Analyzing the Impact of Evolving Combustion Conditions on the Composition of Wildfire Emissions Using Satellite Data"
 
 ### Variables in FRP_Data.xlsx are described below:
-#### Please note that the data used to find the statistics for each fire was obtained from VIIRS onboard the S-NPP satellite. The pixel-level FRP Data can be downloaded \url{https://firms.modaps.eosdis.nasa.gov/download/}. Statistics were determined based on the fire location and bounding box size Only daytime data was used in our analysis.
+#### Please note that the data used to find the statistics for each fire was obtained from VIIRS onboard the S-NPP satellite. The pixel-level FRP Data can be downloaded [here](https://firms.modaps.eosdis.nasa.gov/download/). Statistics were determined based on the fire location and bounding box size Only daytime data was used in our analysis.
 Fire Name
 
 Date: yyyy-mm-dd format
