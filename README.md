@@ -2,7 +2,6 @@
 
 ### Variables in FRP_Data.xlsx are described below:
 Fire Name
-
 Date
 
 yyyymmdd
